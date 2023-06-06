@@ -1,7 +1,11 @@
 {
   "name": "json2raml",
   "displayName": "JSON to RAML",
-  "icon": "https://raw.githubusercontent.com/ayarabis/json2raml/main/media/icon.png",
+  "icon": "media/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayarabis/json2raml"
+  },
   "description": "Convert JSON to RAML",
   "publisher": "CodeButter",
   "version": "1.0.0",
