@@ -6,4 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.0] - 2023-06-06
+
 - Initial release
+
+## [1.1.0] - 2023-06-09
+
+- Added support for converting JSON schema
