@@ -2,6 +2,8 @@
 
 Enables users to effortlessly convert JSON files into RAML (RESTful API Modeling Language) DataType format. This extension streamlines the process of transforming JSON data structures into RAML specifications, making it easier for developers to document and design RESTful APIs.
 
+![Screenshot 2023-06-22 at 2 53 05 AM](https://github.com/ayarabis/json2raml/assets/99114889/b44cf89a-23c1-4e2c-8282-8d10a4304c40)
+
 ## Features
 
 - **JSON to RAML Conversion**: The extension provides a straightforward and intuitive way to convert JSON files to RAML format within the VSCode editor.
